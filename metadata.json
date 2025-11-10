@@ -1,0 +1,5 @@
+{
+  "name": "Dicionário Eletrônico de Terminologia em Ciência da Informação (DeltCI)",
+  "description": "Uma aplicação web para explorar um dicionário especializado em Ciência da Informação e Infocomunicação, com funcionalidades de busca e visualização de verbetes.",
+  "requestFramePermissions": []
+}
